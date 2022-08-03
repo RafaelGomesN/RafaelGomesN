@@ -17,7 +17,7 @@
 
 <div><br/>
 
- Apaixonado por tecnologia, atualmente estou cursando análise e desenvolvimento de sistemas na UNIGRANRIO.
+ Apaixonado por tecnologia, atualmente estou cursando análise e desenvolvimento de sistemas.
 
  ## Meu contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelcgomesneves@gmail.com)
